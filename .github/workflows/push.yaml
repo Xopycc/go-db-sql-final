@@ -1,4 +1,3 @@
-// Для итогового задания 12-го спринта
 name: golang-pipeline
 on: push
 jobs:
